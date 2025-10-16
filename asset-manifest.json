@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Melany-Portfolio/static/css/main.e1df7c0c.css",
-    "main.js": "/Melany-Portfolio/static/js/main.c7aac07f.js",
+    "main.js": "/Melany-Portfolio/static/js/main.7c0c1696.js",
     "static/js/453.ececc0a5.chunk.js": "/Melany-Portfolio/static/js/453.ececc0a5.chunk.js",
     "index.html": "/Melany-Portfolio/index.html",
     "main.e1df7c0c.css.map": "/Melany-Portfolio/static/css/main.e1df7c0c.css.map",
-    "main.c7aac07f.js.map": "/Melany-Portfolio/static/js/main.c7aac07f.js.map",
+    "main.7c0c1696.js.map": "/Melany-Portfolio/static/js/main.7c0c1696.js.map",
     "453.ececc0a5.chunk.js.map": "/Melany-Portfolio/static/js/453.ececc0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1df7c0c.css",
-    "static/js/main.c7aac07f.js"
+    "static/js/main.7c0c1696.js"
   ]
 }

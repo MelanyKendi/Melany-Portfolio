@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "//my-portfolio/static/css/main.e1df7c0c.css",
-    "main.js": "//my-portfolio/static/js/main.1058c193.js",
-    "static/js/453.ececc0a5.chunk.js": "//my-portfolio/static/js/453.ececc0a5.chunk.js",
-    "index.html": "//my-portfolio/index.html",
-    "main.e1df7c0c.css.map": "//my-portfolio/static/css/main.e1df7c0c.css.map",
-    "main.1058c193.js.map": "//my-portfolio/static/js/main.1058c193.js.map",
-    "453.ececc0a5.chunk.js.map": "//my-portfolio/static/js/453.ececc0a5.chunk.js.map"
+    "main.css": "//Melany-Portfolio/static/css/main.e1df7c0c.css",
+    "main.js": "//Melany-Portfolio/static/js/main.c1ff92d3.js",
+    "static/js/453.ececc0a5.chunk.js": "//Melany-Portfolio/static/js/453.ececc0a5.chunk.js",
+    "index.html": "//Melany-Portfolio/index.html",
+    "main.e1df7c0c.css.map": "//Melany-Portfolio/static/css/main.e1df7c0c.css.map",
+    "main.c1ff92d3.js.map": "//Melany-Portfolio/static/js/main.c1ff92d3.js.map",
+    "453.ececc0a5.chunk.js.map": "//Melany-Portfolio/static/js/453.ececc0a5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1df7c0c.css",
-    "static/js/main.1058c193.js"
+    "static/js/main.c1ff92d3.js"
   ]
 }
